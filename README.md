@@ -24,6 +24,4 @@ LibroLink is a book sharing platform connecting book enthusiasts for exchanging 
 
 Open the Figma file to explore the design and understand the platform’s layout and functionality.
 
-## License
 
-This project is licensed under the MIT License.
